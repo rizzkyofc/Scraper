@@ -1,2 +1,3 @@
 # Scraper
-Created By Rizki
+
+Ambil Aja Gratis Kok.
