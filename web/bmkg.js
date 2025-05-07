@@ -4,7 +4,7 @@ async function getBmkg() {
   try {
     const response = await fetch(`https://data.bmkg.go.id/DataMKG/TEWS/autogempa.json`);
     const data = await response.json();
-    const i = data.Infogempa.gempa; // perbaikan di sini, huruf besar dan tanpa [0]
+    const i = data.Infogempa.gempa; 
 
     const result = {
       tanggal: i.Tanggal,
