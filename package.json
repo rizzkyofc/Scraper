@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@bochilteam/scraper-bmkg": "^5.0.0",
+    "@bochilteam/scraper-root": "github:bochilteam/scraper",
+    "@bochilteam/scraper-youtube": "^5.0.0",
+    "axios": "^1.9.0",
+    "ba-logo": "^1.0.3",
+    "btch-downloader": "^4.0.7",
+    "chatgpt": "^5.2.5",
+    "chatgpt-scraper": "^1.0.1",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
